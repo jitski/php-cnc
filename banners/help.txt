@@ -1,0 +1,7 @@
+----------------
+methods
+clear
+bots
+chat
+credits
+----------------
